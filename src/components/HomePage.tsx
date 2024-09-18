@@ -186,7 +186,7 @@ export const HomePage = () => {
                 <VRIcon size={48} color={iconColor} />
               </Box>
             </Box>
-            <Text>We plan to have a public link to test it in late August (2024). For now, we have a <Link
+            <Text>We plan to have a public link to test it in soon. For now, we have a <Link
                 href="https://www.youtube.com/watch?v=WlpDF1z4s9I&list=PLBmhkGNdurqgEZ0JlaDew3Gdk-3xElgu7&index=12"
                 target="_blank"
                 rel="noopener noreferrer"
