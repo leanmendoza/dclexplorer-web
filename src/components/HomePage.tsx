@@ -186,13 +186,13 @@ export const HomePage = () => {
                 <VRIcon size={48} color={iconColor} />
               </Box>
             </Box>
-            <Text>We plan to have a public link to test it in soon. For now, we have a <Link
-                href="https://www.youtube.com/watch?v=WlpDF1z4s9I&list=PLBmhkGNdurqgEZ0JlaDew3Gdk-3xElgu7&index=12"
+            <Text>We are moving forward to public in stores. For now, we have an APK available to be installed with SideQuest in Meta Quest 2 and 3: <Link
+                href="https://github.com/decentraland/godot-explorer/releases/download/v0.11.0-alpha/meta-quest.apk"
                 target="_blank"
                 rel="noopener noreferrer"
                 color={"#ff2d55"}>
-                demonstration video
-              </Link>.
+                download VR APK
+              </Link>
             </Text>
 
 
